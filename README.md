@@ -36,6 +36,9 @@ Expenses and average transaction value grow as the income grows, which is expect
 
 Similarly to income, as people get older, the value of their transactions and the total expense increase as they get older. This might be to the fact that there is a direct correlation between age and income.
 
+![download (8)](https://user-images.githubusercontent.com/39211262/82525033-0ad97800-9b4e-11ea-96a4-efd78bbbe991.png)
+
+The spending patterns are similar for customers that received, viewed and completed offers. It’s important to note that for informational offers, they seem to be more relevant for younger customers. Similarly, customers that make less than $80,000 don’t seem to be impacted by this kind of offers.
 
 # Licensing, Authors, Acknowledgements
 You can the Licensing for the data and other descriptive information is available at Udacity Data Science Nanodegree project. Otherwise, feel free to use the code here as you wish.
