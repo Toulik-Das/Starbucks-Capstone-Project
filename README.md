@@ -28,5 +28,14 @@ This data frame is intended to aggregate offer and transactional data on a per c
 
 Population distributions by gender, income and age. The sample provides significantly more males. Both the income and the age distribution seem to approach a normal distribution
 
+![download (3)](https://user-images.githubusercontent.com/39211262/82524962-df568d80-9b4d-11ea-8b88-225b41962884.png)
+
+Expenses and average transaction value grow as the income grows, which is expected.
+
+![download (4)](https://user-images.githubusercontent.com/39211262/82524964-e1205100-9b4d-11ea-9496-3fb26dcdd105.png)
+
+Similarly to income, as people get older, the value of their transactions and the total expense increase as they get older. This might be to the fact that there is a direct correlation between age and income.
+
+
 # Licensing, Authors, Acknowledgements
 You can the Licensing for the data and other descriptive information is available at Udacity Data Science Nanodegree project. Otherwise, feel free to use the code here as you wish.
