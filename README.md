@@ -22,7 +22,11 @@ For this project, given the Starbucks offer, customer profile, customer transact
 
 
 # Results
+#### Customers Data Frame
+This data frame is intended to aggregate offer and transactional data on a per customer basis. This should facilitate the analysis of each customer’s transactional behavior.
+![download (1)](https://user-images.githubusercontent.com/39211262/82524901-b0d8b280-9b4d-11ea-9901-b959d8e7beb5.png)
 
+Population distributions by gender, income and age. The sample provides significantly more males. Both the income and the age distribution seem to approach a normal distribution
 
 # Licensing, Authors, Acknowledgements
 You can the Licensing for the data and other descriptive information is available at Udacity Data Science Nanodegree project. Otherwise, feel free to use the code here as you wish.
