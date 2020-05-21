@@ -22,7 +22,9 @@ For this project, given the Starbucks offer, customer profile, customer transact
 
 
 # Results
+
 For More details checkout the [Blog](https://medium.com/@dastoulik12/starbucks-capstone-challenge-428c3a695046).
+
 #### Customers Data Frame
 This data frame is intended to aggregate offer and transactional data on a per customer basis. This should facilitate the analysis of each customer’s transactional behavior.
 ![download (1)](https://user-images.githubusercontent.com/39211262/82524901-b0d8b280-9b4d-11ea-9901-b959d8e7beb5.png)
@@ -42,4 +44,5 @@ Similarly to income, as people get older, the value of their transactions and th
 The spending patterns are similar for customers that received, viewed and completed offers. It’s important to note that for informational offers, they seem to be more relevant for younger customers. Similarly, customers that make less than $80,000 don’t seem to be impacted by this kind of offers.
 
 # Licensing, Authors, Acknowledgements
-Thanks to [Starbucks] (https://www.starbucks.com/)for all supports.Feel free to use the code here as you wish.
+
+Thanks to [Starbucks](https://www.starbucks.com/)for all supports.Feel free to use the code here as you wish.
