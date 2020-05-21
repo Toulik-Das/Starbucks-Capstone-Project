@@ -1,5 +1,5 @@
 # Starbucks-Capstone
-
+![1_YWVTNTQwh6dpI21k7vc1VA](https://user-images.githubusercontent.com/39211262/82521307-e8daf800-9b43-11ea-97f5-1e65affca8c0.png)
 
 # Installation
 Make sure you have already installed library sklearn, seaborn and tqdm. Except for these, the code should run with no issues using Python versions 3.*.
