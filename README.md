@@ -45,4 +45,4 @@ The spending patterns are similar for customers that received, viewed and comple
 
 # Licensing, Authors, Acknowledgements
 
-Thanks to [Starbucks](https://www.starbucks.com/)for all supports.Feel free to use the code here as you wish.
+Thanks to [Starbucks](https://www.starbucks.com/) for all supports.Feel free to re-use the code here as you wish.
